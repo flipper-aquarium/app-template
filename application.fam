@@ -2,7 +2,7 @@ App(
     appid="change_this",
     name="Application Template",
     apptype=FlipperAppType.PLUGIN,
-    entry_point="app_example",
+    entry_point="flipper_example_app",
     cdefines=["APP_EXAMPLE"],
     requires=[
         "gui",
